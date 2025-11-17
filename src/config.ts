@@ -95,7 +95,7 @@ export interface SiteConfig {
  * Update these values to customize your portfolio
  */
 export const siteConfig: SiteConfig = {
-  name: "Welcome to the UWA AI Club",
+  name: "Welcome to the UWA Artificial Intelligence Club",
   title: "A student-run AI community at UWA",
   description:
     "The UWA AI Club is a student-run community bringing together students passionate about artificial intelligence, data science, and technology-driven innovation. Founded in early 2025, the club empowers students to learn by building through hands-on workshops, collaborative projects, and creative problem-solving challenges. Our mission is to foster a culture of innovation, curiosity, and interdisciplinary exploration at the University of Western Australia, where ideas from computing, engineering, business, and the arts intersect through AI.",
