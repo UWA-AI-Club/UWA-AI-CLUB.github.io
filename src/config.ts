@@ -136,7 +136,7 @@ export const siteConfig: SiteConfig = {
   },
   sections: {
     about: false,
-    projects: false,
+    projects: true,
     blog: false,
     work: false,
     education: false,
