@@ -18,6 +18,7 @@ export interface SocialLinks {
   bluesky?: string;
   instagram?: string;
   youTube?: string;
+  discord?: string;
   codetips?: string;
 }
 
@@ -106,6 +107,7 @@ export const siteConfig: SiteConfig = {
     github: "https://github.com/UWA-AI-Club",
     linkedin: "https://au.linkedin.com/company/uwa-ai-club",
     instagram: "https://instagram.com/uwaaiclub",
+    discord: "https://discord.gg/Tzg7P69S89",
     email: "uwaaiclub@gmail.com",
   },
   enableThemeSelector: true,
